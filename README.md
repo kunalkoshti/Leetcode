@@ -9,8 +9,18 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkoshti/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1508-longest-happy-prefix](https://github.com/kunalkoshti/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkoshti/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1508-longest-happy-prefix](https://github.com/kunalkoshti/Leetcode/tree/master/1508-longest-happy-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/kunalkoshti/Leetcode/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/kunalkoshti/Leetcode/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
