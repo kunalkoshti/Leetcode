@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/kunalkoshti/Leetcode/tree/master/1508-longest-happy-prefix) |
+## Array
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/kunalkoshti/Leetcode/tree/master/0152-maximum-product-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/kunalkoshti/Leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
