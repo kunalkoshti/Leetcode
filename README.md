@@ -27,8 +27,14 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/kunalkoshti/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/kunalkoshti/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/kunalkoshti/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/kunalkoshti/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+## Sorting
+|  |
+| ------- |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/kunalkoshti/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 <!---LeetCode Topics End-->
