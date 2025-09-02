@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkoshti/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/kunalkoshti/Leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0152-maximum-product-subarray](https://github.com/kunalkoshti/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/kunalkoshti/Leetcode/tree/master/0493-reverse-pairs) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/kunalkoshti/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/kunalkoshti/Leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/kunalkoshti/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/kunalkoshti/Leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Backtracking
 |  |
 | ------- |
@@ -86,4 +89,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kunalkoshti/Leetcode/tree/master/0493-reverse-pairs) |
+## Greedy
+|  |
+| ------- |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/kunalkoshti/Leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3959-maximum-total-from-optimal-activation-order](https://github.com/kunalkoshti/Leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 <!---LeetCode Topics End-->
