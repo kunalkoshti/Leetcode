@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kunalkoshti/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3830-find-closest-person](https://github.com/kunalkoshti/Leetcode/tree/master/3830-find-closest-person) |
 ## Geometry
 |  |
 | ------- |
