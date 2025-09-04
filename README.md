@@ -33,6 +33,7 @@
 | [0152-maximum-product-subarray](https://github.com/kunalkoshti/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/kunalkoshti/Leetcode/tree/master/0493-reverse-pairs) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/kunalkoshti/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1917-maximum-average-pass-ratio](https://github.com/kunalkoshti/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kunalkoshti/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/kunalkoshti/Leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 | [3973-flip-square-submatrix-vertically](https://github.com/kunalkoshti/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
@@ -96,10 +97,12 @@
 ## Greedy
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/kunalkoshti/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/kunalkoshti/Leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/kunalkoshti/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/kunalkoshti/Leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Matrix
 |  |
