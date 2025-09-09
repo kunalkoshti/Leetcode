@@ -47,6 +47,7 @@
 | [0131-palindrome-partitioning](https://github.com/kunalkoshti/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/kunalkoshti/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/kunalkoshti/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/kunalkoshti/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Sorting
 |  |
 | ------- |
@@ -141,4 +142,12 @@
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/kunalkoshti/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/kunalkoshti/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Simulation
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/kunalkoshti/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
