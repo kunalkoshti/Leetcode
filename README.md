@@ -35,6 +35,7 @@
 | [0493-reverse-pairs](https://github.com/kunalkoshti/Leetcode/tree/master/0493-reverse-pairs) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kunalkoshti/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/kunalkoshti/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/kunalkoshti/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/kunalkoshti/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kunalkoshti/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kunalkoshti/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/kunalkoshti/Leetcode/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/kunalkoshti/Leetcode/tree/master/0133-clone-graph) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/kunalkoshti/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1834-minimum-number-of-people-to-teach](https://github.com/kunalkoshti/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/kunalkoshti/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/kunalkoshti/Leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Heap (Priority Queue)
