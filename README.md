@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kunalkoshti/Leetcode/tree/master/0037-sudoku-solver) |
+| [0084-largest-rectangle-in-histogram](https://github.com/kunalkoshti/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/kunalkoshti/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/kunalkoshti/Leetcode/tree/master/0493-reverse-pairs) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kunalkoshti/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -153,4 +154,12 @@
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/kunalkoshti/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kunalkoshti/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kunalkoshti/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
