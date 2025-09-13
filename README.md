@@ -43,6 +43,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kunalkoshti/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kunalkoshti/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3886-count-number-of-trapezoids-i](https://github.com/kunalkoshti/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
+| [3941-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/kunalkoshti/Leetcode/tree/master/3941-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/kunalkoshti/Leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 | [3973-flip-square-submatrix-vertically](https://github.com/kunalkoshti/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Dynamic Programming
@@ -92,14 +93,17 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kunalkoshti/Leetcode/tree/master/0493-reverse-pairs) |
+| [3941-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/kunalkoshti/Leetcode/tree/master/3941-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kunalkoshti/Leetcode/tree/master/0493-reverse-pairs) |
+| [3941-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/kunalkoshti/Leetcode/tree/master/3941-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kunalkoshti/Leetcode/tree/master/0493-reverse-pairs) |
+| [3941-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/kunalkoshti/Leetcode/tree/master/3941-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 ## Merge Sort
 |  |
 | ------- |
