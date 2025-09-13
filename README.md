@@ -42,6 +42,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/kunalkoshti/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kunalkoshti/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kunalkoshti/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3886-count-number-of-trapezoids-i](https://github.com/kunalkoshti/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/kunalkoshti/Leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 | [3973-flip-square-submatrix-vertically](https://github.com/kunalkoshti/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@
 | [0037-sudoku-solver](https://github.com/kunalkoshti/Leetcode/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/kunalkoshti/Leetcode/tree/master/0133-clone-graph) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kunalkoshti/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3886-count-number-of-trapezoids-i](https://github.com/kunalkoshti/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -132,11 +134,13 @@
 | [3462-vowels-game-in-a-string](https://github.com/kunalkoshti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kunalkoshti/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/kunalkoshti/Leetcode/tree/master/3830-find-closest-person) |
+| [3886-count-number-of-trapezoids-i](https://github.com/kunalkoshti/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/kunalkoshti/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Geometry
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kunalkoshti/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3886-count-number-of-trapezoids-i](https://github.com/kunalkoshti/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Enumeration
 |  |
 | ------- |
