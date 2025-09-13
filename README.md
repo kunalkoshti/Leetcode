@@ -132,6 +132,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/kunalkoshti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kunalkoshti/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/kunalkoshti/Leetcode/tree/master/3830-find-closest-person) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/kunalkoshti/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Geometry
 |  |
 | ------- |
