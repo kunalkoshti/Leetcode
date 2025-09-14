@@ -13,6 +13,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkoshti/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/kunalkoshti/Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/kunalkoshti/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [1006-vowel-spellchecker](https://github.com/kunalkoshti/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1508-longest-happy-prefix](https://github.com/kunalkoshti/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [2887-sort-vowels-in-a-string](https://github.com/kunalkoshti/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/kunalkoshti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -37,6 +38,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/kunalkoshti/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/kunalkoshti/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/kunalkoshti/Leetcode/tree/master/0493-reverse-pairs) |
+| [1006-vowel-spellchecker](https://github.com/kunalkoshti/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kunalkoshti/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/kunalkoshti/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kunalkoshti/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -72,6 +74,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/kunalkoshti/Leetcode/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/kunalkoshti/Leetcode/tree/master/0133-clone-graph) |
+| [1006-vowel-spellchecker](https://github.com/kunalkoshti/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kunalkoshti/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kunalkoshti/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3886-count-number-of-trapezoids-i](https://github.com/kunalkoshti/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
