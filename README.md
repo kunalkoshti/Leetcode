@@ -14,6 +14,7 @@
 | [0072-edit-distance](https://github.com/kunalkoshti/Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/kunalkoshti/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1006-vowel-spellchecker](https://github.com/kunalkoshti/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/kunalkoshti/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1508-longest-happy-prefix](https://github.com/kunalkoshti/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [2887-sort-vowels-in-a-string](https://github.com/kunalkoshti/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/kunalkoshti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -76,6 +77,7 @@
 | [0037-sudoku-solver](https://github.com/kunalkoshti/Leetcode/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/kunalkoshti/Leetcode/tree/master/0133-clone-graph) |
 | [1006-vowel-spellchecker](https://github.com/kunalkoshti/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/kunalkoshti/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kunalkoshti/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kunalkoshti/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3886-count-number-of-trapezoids-i](https://github.com/kunalkoshti/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
