@@ -19,6 +19,7 @@
 | [2429-design-a-food-rating-system](https://github.com/kunalkoshti/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/kunalkoshti/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/kunalkoshti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/kunalkoshti/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kunalkoshti/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
@@ -49,6 +50,7 @@
 | [2429-design-a-food-rating-system](https://github.com/kunalkoshti/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kunalkoshti/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kunalkoshti/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3797-design-spreadsheet](https://github.com/kunalkoshti/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3886-count-number-of-trapezoids-i](https://github.com/kunalkoshti/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [3941-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/kunalkoshti/Leetcode/tree/master/3941-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/kunalkoshti/Leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
@@ -82,6 +84,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kunalkoshti/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kunalkoshti/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/kunalkoshti/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/kunalkoshti/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/kunalkoshti/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3886-count-number-of-trapezoids-i](https://github.com/kunalkoshti/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 ## Depth-First Search
@@ -140,6 +143,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kunalkoshti/Leetcode/tree/master/0037-sudoku-solver) |
+| [3797-design-spreadsheet](https://github.com/kunalkoshti/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3973-flip-square-submatrix-vertically](https://github.com/kunalkoshti/Leetcode/tree/master/3973-flip-square-submatrix-vertically) |
 ## Math
 |  |
@@ -207,4 +211,5 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/kunalkoshti/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3797-design-spreadsheet](https://github.com/kunalkoshti/Leetcode/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
