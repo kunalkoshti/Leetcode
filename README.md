@@ -150,6 +150,7 @@
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kunalkoshti/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/kunalkoshti/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1642-water-bottles](https://github.com/kunalkoshti/Leetcode/tree/master/1642-water-bottles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/kunalkoshti/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kunalkoshti/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/kunalkoshti/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -185,6 +186,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/kunalkoshti/Leetcode/tree/master/1642-water-bottles) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/kunalkoshti/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Stack
 |  |
