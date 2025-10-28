@@ -49,6 +49,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/kunalkoshti/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/kunalkoshti/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kunalkoshti/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/kunalkoshti/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kunalkoshti/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/kunalkoshti/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3886-count-number-of-trapezoids-i](https://github.com/kunalkoshti/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
@@ -188,6 +189,7 @@
 | ------- |
 | [1642-water-bottles](https://github.com/kunalkoshti/Leetcode/tree/master/1642-water-bottles) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/kunalkoshti/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/kunalkoshti/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -214,4 +216,8 @@
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/kunalkoshti/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/kunalkoshti/Leetcode/tree/master/3797-design-spreadsheet) |
+## Prefix Sum
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/kunalkoshti/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
