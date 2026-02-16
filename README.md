@@ -41,6 +41,7 @@
 | [0037-sudoku-solver](https://github.com/kunalkoshti/Leetcode/tree/master/0037-sudoku-solver) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kunalkoshti/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/kunalkoshti/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/kunalkoshti/Leetcode/tree/master/0204-count-primes) |
 | [0493-reverse-pairs](https://github.com/kunalkoshti/Leetcode/tree/master/0493-reverse-pairs) |
 | [1006-vowel-spellchecker](https://github.com/kunalkoshti/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kunalkoshti/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -152,6 +153,7 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kunalkoshti/Leetcode/tree/master/0204-count-primes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kunalkoshti/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/kunalkoshti/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1642-water-bottles](https://github.com/kunalkoshti/Leetcode/tree/master/1642-water-bottles) |
@@ -172,6 +174,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kunalkoshti/Leetcode/tree/master/0204-count-primes) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/kunalkoshti/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/kunalkoshti/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Bit Manipulation
@@ -214,6 +217,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kunalkoshti/Leetcode/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/kunalkoshti/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Design
 |  |
