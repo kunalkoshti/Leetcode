@@ -66,6 +66,7 @@
 | [0072-edit-distance](https://github.com/kunalkoshti/Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/kunalkoshti/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/kunalkoshti/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/kunalkoshti/Leetcode/tree/master/0338-counting-bits) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/kunalkoshti/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/kunalkoshti/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Sorting
@@ -182,6 +183,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/kunalkoshti/Leetcode/tree/master/0338-counting-bits) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/kunalkoshti/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kunalkoshti/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Brainteaser
