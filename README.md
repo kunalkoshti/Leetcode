@@ -56,6 +56,7 @@
 | [3616-make-array-elements-equal-to-zero](https://github.com/kunalkoshti/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kunalkoshti/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/kunalkoshti/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3850-count-sequences-to-k](https://github.com/kunalkoshti/Leetcode/tree/master/3850-count-sequences-to-k) |
 | [3886-count-number-of-trapezoids-i](https://github.com/kunalkoshti/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [3941-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/kunalkoshti/Leetcode/tree/master/3941-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/kunalkoshti/Leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
@@ -69,6 +70,7 @@
 | [0338-counting-bits](https://github.com/kunalkoshti/Leetcode/tree/master/0338-counting-bits) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/kunalkoshti/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/kunalkoshti/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3850-count-sequences-to-k](https://github.com/kunalkoshti/Leetcode/tree/master/3850-count-sequences-to-k) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/kunalkoshti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/kunalkoshti/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/kunalkoshti/Leetcode/tree/master/3830-find-closest-person) |
+| [3850-count-sequences-to-k](https://github.com/kunalkoshti/Leetcode/tree/master/3850-count-sequences-to-k) |
 | [3886-count-number-of-trapezoids-i](https://github.com/kunalkoshti/Leetcode/tree/master/3886-count-number-of-trapezoids-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/kunalkoshti/Leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Geometry
@@ -223,6 +226,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/kunalkoshti/Leetcode/tree/master/0204-count-primes) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/kunalkoshti/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3850-count-sequences-to-k](https://github.com/kunalkoshti/Leetcode/tree/master/3850-count-sequences-to-k) |
 ## Design
 |  |
 | ------- |
@@ -232,4 +236,8 @@
 |  |
 | ------- |
 | [3616-make-array-elements-equal-to-zero](https://github.com/kunalkoshti/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+## Memoization
+|  |
+| ------- |
+| [3850-count-sequences-to-k](https://github.com/kunalkoshti/Leetcode/tree/master/3850-count-sequences-to-k) |
 <!---LeetCode Topics End-->
