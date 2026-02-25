@@ -13,6 +13,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkoshti/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/kunalkoshti/Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/kunalkoshti/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1006-vowel-spellchecker](https://github.com/kunalkoshti/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kunalkoshti/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1508-longest-happy-prefix](https://github.com/kunalkoshti/Leetcode/tree/master/1508-longest-happy-prefix) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/kunalkoshti/Leetcode/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/kunalkoshti/Leetcode/tree/master/0133-clone-graph) |
+| [0208-implement-trie-prefix-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1006-vowel-spellchecker](https://github.com/kunalkoshti/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kunalkoshti/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kunalkoshti/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -230,6 +232,7 @@
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [2429-design-a-food-rating-system](https://github.com/kunalkoshti/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/kunalkoshti/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
@@ -240,4 +243,8 @@
 |  |
 | ------- |
 | [3850-count-sequences-to-k](https://github.com/kunalkoshti/Leetcode/tree/master/3850-count-sequences-to-k) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
