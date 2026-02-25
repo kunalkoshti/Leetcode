@@ -49,6 +49,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/kunalkoshti/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/kunalkoshti/Leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kunalkoshti/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/kunalkoshti/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1917-maximum-average-pass-ratio](https://github.com/kunalkoshti/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/kunalkoshti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/kunalkoshti/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kunalkoshti/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/kunalkoshti/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1917-maximum-average-pass-ratio](https://github.com/kunalkoshti/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [3959-maximum-total-from-optimal-activation-order](https://github.com/kunalkoshti/Leetcode/tree/master/3959-maximum-total-from-optimal-activation-order) |
 ## Heap (Priority Queue)
