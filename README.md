@@ -15,6 +15,7 @@
 | [0131-palindrome-partitioning](https://github.com/kunalkoshti/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1006-vowel-spellchecker](https://github.com/kunalkoshti/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1044-longest-duplicate-substring](https://github.com/kunalkoshti/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kunalkoshti/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1508-longest-happy-prefix](https://github.com/kunalkoshti/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/kunalkoshti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -31,10 +32,12 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/kunalkoshti/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1508-longest-happy-prefix](https://github.com/kunalkoshti/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [1044-longest-duplicate-substring](https://github.com/kunalkoshti/Leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1508-longest-happy-prefix](https://github.com/kunalkoshti/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Array
 |  |
@@ -114,6 +117,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/kunalkoshti/Leetcode/tree/master/0493-reverse-pairs) |
+| [1044-longest-duplicate-substring](https://github.com/kunalkoshti/Leetcode/tree/master/1044-longest-duplicate-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -249,4 +253,12 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/kunalkoshti/Leetcode/tree/master/1044-longest-duplicate-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/kunalkoshti/Leetcode/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
