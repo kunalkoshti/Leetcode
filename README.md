@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kunalkoshti/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kunalkoshti/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0072-edit-distance](https://github.com/kunalkoshti/Leetcode/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/kunalkoshti/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -91,6 +92,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kunalkoshti/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/kunalkoshti/Leetcode/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/kunalkoshti/Leetcode/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -256,6 +258,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/kunalkoshti/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1044-longest-duplicate-substring](https://github.com/kunalkoshti/Leetcode/tree/master/1044-longest-duplicate-substring) |
 ## Suffix Array
 |  |
