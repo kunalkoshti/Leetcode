@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/kunalkoshti/Leetcode/tree/master/0133-clone-graph) |
+| [0543-diameter-of-binary-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -264,4 +265,12 @@
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/kunalkoshti/Leetcode/tree/master/1044-longest-duplicate-substring) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
