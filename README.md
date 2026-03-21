@@ -109,6 +109,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/kunalkoshti/Leetcode/tree/master/0133-clone-graph) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kunalkoshti/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/kunalkoshti/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 ## Breadth-First Search
@@ -272,12 +273,14 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kunalkoshti/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/kunalkoshti/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kunalkoshti/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/kunalkoshti/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 ## Binary Search Tree
