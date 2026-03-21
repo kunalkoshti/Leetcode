@@ -96,6 +96,7 @@
 | [0037-sudoku-solver](https://github.com/kunalkoshti/Leetcode/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/kunalkoshti/Leetcode/tree/master/0133-clone-graph) |
 | [0208-implement-trie-prefix-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/kunalkoshti/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [1006-vowel-spellchecker](https://github.com/kunalkoshti/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kunalkoshti/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/kunalkoshti/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -109,6 +110,7 @@
 | [0133-clone-graph](https://github.com/kunalkoshti/Leetcode/tree/master/0133-clone-graph) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kunalkoshti/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/kunalkoshti/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -271,11 +273,13 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kunalkoshti/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/kunalkoshti/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kunalkoshti/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kunalkoshti/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/kunalkoshti/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 ## Binary Search Tree
 |  |
 | ------- |
